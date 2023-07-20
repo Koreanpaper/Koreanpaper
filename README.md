@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&text= 'Hello! Im Han ji yun :)')
+![header](https://capsule-render.vercel.app/api?type=waving&text='Hello! Im Han ji yun :)')
 
 <!--
 **Koreanpaper/Koreanpaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
