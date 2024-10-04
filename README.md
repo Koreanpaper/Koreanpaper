@@ -1,4 +1,4 @@
-![CapsuleRender](https://capsule-render.vercel.app/api?type=venom&height=250&color=E6E6FA&text=Hello,%20World!&fontColor=2C2C2C)
+![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20World!&fontColor=0D3B66)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoreanpaper%2Fhit-counter&count_bg=%23E5B7F7&title_bg=%23AD86E5&icon=reverbnation.svg&icon_color=%23FFFEFE&title=&edge_flat=true)](https://hits.seeyoufarm.com)
 
