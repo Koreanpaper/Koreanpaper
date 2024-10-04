@@ -16,7 +16,7 @@
 ![Css](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <br>
-### Framworks
+### FRAMWORKS
 ![Spring](https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
